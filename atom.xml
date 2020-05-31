@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://shittheend.github.io/</id>
+    <id>http://https://shittheend.github.io/</id>
     <title>moni妙妙屋</title>
-    <updated>2020-05-31T08:12:26.918Z</updated>
+    <updated>2020-05-31T08:31:09.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://shittheend.github.io/"/>
-    <link rel="self" href="https://https://shittheend.github.io/atom.xml"/>
+    <link rel="alternate" href="http://https://shittheend.github.io/"/>
+    <link rel="self" href="http://https://shittheend.github.io/atom.xml"/>
     <subtitle>丧且益坚，不坠青云之志</subtitle>
-    <logo>https://https://shittheend.github.io/images/avatar.png</logo>
-    <icon>https://https://shittheend.github.io/favicon.ico</icon>
+    <logo>http://https://shittheend.github.io/images/avatar.png</logo>
+    <icon>http://https://shittheend.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, moni妙妙屋</rights>
     <entry>
         <title type="html"><![CDATA[无量筒求密度]]></title>
-        <id>https://https://shittheend.github.io/post/wu-liang-tong-qiu-mi-du/</id>
-        <link href="https://https://shittheend.github.io/post/wu-liang-tong-qiu-mi-du/">
+        <id>http://https://shittheend.github.io/post/wu-liang-tong-qiu-mi-du/</id>
+        <link href="http://https://shittheend.github.io/post/wu-liang-tong-qiu-mi-du/">
         </link>
         <updated>2020-04-29T12:16:07.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.luogu.com.cn/upload/image_hosting/kxrl7j27.png" alt="" loading="lazy"></figure>
@@ -59,8 +59,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[二分模板]]></title>
-        <id>https://https://shittheend.github.io/post/er-fen-mo-ban/</id>
-        <link href="https://https://shittheend.github.io/post/er-fen-mo-ban/">
+        <id>http://https://shittheend.github.io/post/er-fen-mo-ban/</id>
+        <link href="http://https://shittheend.github.io/post/er-fen-mo-ban/">
         </link>
         <updated>2020-04-27T12:51:49.000Z</updated>
         <content type="html"><![CDATA[<pre><code>while (l &lt;= r) {
@@ -79,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Mok问我想干啥]]></title>
-        <id>https://https://shittheend.github.io/post/mok-wen-wo-xiang-gan-sha/</id>
-        <link href="https://https://shittheend.github.io/post/mok-wen-wo-xiang-gan-sha/">
+        <id>http://https://shittheend.github.io/post/mok-wen-wo-xiang-gan-sha/</id>
+        <link href="http://https://shittheend.github.io/post/mok-wen-wo-xiang-gan-sha/">
         </link>
         <updated>2020-04-11T15:21:10.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -116,40 +116,40 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[安全用电及电磁现象]]></title>
-        <id>https://https://shittheend.github.io/post/an-quan-yong-dian-ji-dian-ci-xian-xiang/</id>
-        <link href="https://https://shittheend.github.io/post/an-quan-yong-dian-ji-dian-ci-xian-xiang/">
+        <id>http://https://shittheend.github.io/post/an-quan-yong-dian-ji-dian-ci-xian-xiang/</id>
+        <link href="http://https://shittheend.github.io/post/an-quan-yong-dian-ji-dian-ci-xian-xiang/">
         </link>
         <updated>2020-04-11T08:52:20.000Z</updated>
         <content type="html"><![CDATA[<h3 id="part-1-家庭电路与安全用电">Part 1. 家庭电路与安全用电</h3>
 <p>图解家庭电路结构：<br>
-<img src="https://https://shittheend.github.io//post-images/1586599038653.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586599038653.png" alt="" loading="lazy"><br>
 考点：<br>
-<img src="https://https://shittheend.github.io//post-images/1586600471710.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586600471710.png" alt="" loading="lazy"><br>
 插座（无插头）左端口有电的原因：<br>
 <strong>左端口本不应有电流</strong>，所以说明<strong>零线断路，电流从其他用电器到插座左端口</strong>。<br>
-<img src="https://https://shittheend.github.io//post-images/1586600572180.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1586600576450.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586600572180.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586600576450.png" alt="" loading="lazy"><br>
 错题：<br>
-<img src="https://https://shittheend.github.io//post-images/1586604509202.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586604509202.png" alt="" loading="lazy"><br>
 电灯仍正常工作，说明不是保险丝烧坏了，没有发生短路，而把测电笔分别插入插座的左、右插孔，氖管均能发光，说明火线有电，而零线开路了，且是在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi mathvariant="normal">、</mi><mi>d</mi></mrow><annotation encoding="application/x-tex">c、d</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord cjk_fallback">、</span><span class="mord mathdefault">d</span></span></span></span>之间开路，故<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>正确．<br>
 故选<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>．</p>
 <h3 id="part-2-电与磁">Part 2. 电与磁</h3>
 <p>考点：<br>
-<img src="https://https://shittheend.github.io//post-images/1586603565753.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586603565753.png" alt="" loading="lazy"><br>
 <em>补充：</em><br>
 磁场是真实<strong>存在</strong>的<strong>物质</strong>，而磁感线是<strong>不存在</strong>的物理<strong>模型</strong><br>
 🎀图解<strong>右手定则</strong>：<br>
-<img src="https://https://shittheend.github.io//post-images/1586603585852.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586603585852.png" alt="" loading="lazy"><br>
 图解电动机&amp;发电机：<br>
-<img src="https://https://shittheend.github.io//post-images/1586603602588.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1586603619283.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586603602588.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586603619283.png" alt="" loading="lazy"><br>
 <strong>交流电</strong>：大小方向一直在改变</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[杠杆机械效率影响因素]]></title>
-        <id>https://https://shittheend.github.io/post/gang-gan-ji-jie-xiao-lu-ying-xiang-yin-su/</id>
-        <link href="https://https://shittheend.github.io/post/gang-gan-ji-jie-xiao-lu-ying-xiang-yin-su/">
+        <id>http://https://shittheend.github.io/post/gang-gan-ji-jie-xiao-lu-ying-xiang-yin-su/</id>
+        <link href="http://https://shittheend.github.io/post/gang-gan-ji-jie-xiao-lu-ying-xiang-yin-su/">
         </link>
         <updated>2020-04-01T04:06:59.000Z</updated>
         <content type="html"><![CDATA[<h3 id="背景">背景：</h3>
@@ -191,33 +191,33 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[中考数学压轴专题]]></title>
-        <id>https://https://shittheend.github.io/post/zhong-kao-shu-xue-ya-zhou-zhuan-ti/</id>
-        <link href="https://https://shittheend.github.io/post/zhong-kao-shu-xue-ya-zhou-zhuan-ti/">
+        <id>http://https://shittheend.github.io/post/zhong-kao-shu-xue-ya-zhou-zhuan-ti/</id>
+        <link href="http://https://shittheend.github.io/post/zhong-kao-shu-xue-ya-zhou-zhuan-ti/">
         </link>
         <updated>2020-03-29T14:53:26.000Z</updated>
         <content type="html"><![CDATA[<h3 id="part-1-代几综合">Part 1. 代几综合</h3>
 <p><strong>正确认识压轴题</strong><br>
-<img src="https://https://shittheend.github.io//post-images/1585493722665.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1585493722665.png" alt="" loading="lazy"></p>
 <p><strong>巧妙利用铅垂法</strong><br>
-<img src="https://https://shittheend.github.io//post-images/1585493852521.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1585493852521.png" alt="" loading="lazy"></p>
 <p><strong>题目结构</strong><br>
-<img src="https://https://shittheend.github.io//post-images/1585493918153.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1585493918153.png" alt="" loading="lazy"></p>
 <p>例题1：<br>
-<img src="https://https://shittheend.github.io//post-images/1585493950476.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585493959400.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585493969550.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585494008831.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1585493950476.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585493959400.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585493969550.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585494008831.png" alt="" loading="lazy"></p>
 <p>例题2：<br>
-<img src="https://https://shittheend.github.io//post-images/1585494028587.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585494038257.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585494051523.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585494061452.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1585494028587.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585494038257.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585494051523.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585494061452.png" alt="" loading="lazy"></p>
 <p><strong>高级公式</strong><br>
-<img src="https://https://shittheend.github.io//post-images/1586671891697.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1586671998396.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1586671891697.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1586671998396.png" alt="" loading="lazy"></p>
 <hr>
 <p>对于原点不是顶点的三角形：<strong>平移</strong><br>
-<img src="https://https://shittheend.github.io//post-images/1589720804572.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1589720804572.png" alt="" loading="lazy"><br>
 即：</p>
 <p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi mathvariant="normal">∣</mi><mo>(</mo><msub><mi>x</mi><mn>1</mn></msub><mo>×</mo><msub><mi>y</mi><mn>2</mn></msub><mo>)</mo><mo>−</mo><mo>(</mo><msub><mi>x</mi><mn>2</mn></msub><mo>×</mo><msub><mi>y</mi><mn>1</mn></msub><mo>)</mo><mi mathvariant="normal">∣</mi></mrow><annotation encoding="application/x-tex">S=\frac{1}{2}|(x_1×y_2)-(x_2×y_1)|
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord">∣</span><span class="mopen">(</span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">(</span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span><span class="mord">∣</span></span></span></span></span></p>
@@ -239,18 +239,18 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[选填错题集]]></title>
-        <id>https://https://shittheend.github.io/post/xuan-tian-cuo-ti-ji/</id>
-        <link href="https://https://shittheend.github.io/post/xuan-tian-cuo-ti-ji/">
+        <id>http://https://shittheend.github.io/post/xuan-tian-cuo-ti-ji/</id>
+        <link href="http://https://shittheend.github.io/post/xuan-tian-cuo-ti-ji/">
         </link>
         <updated>2020-03-24T15:16:27.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://https://shittheend.github.io//post-images/1585063028735.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585063047702.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="http://https://shittheend.github.io//post-images/1585063028735.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585063047702.png" alt="" loading="lazy"><br>
 注意字眼<strong>粒子</strong>！！</p>
 <hr>
 <p><strong>计量数：</strong> 化学方程式分子前系数</p>
 <hr>
-<p><img src="https://https://shittheend.github.io//post-images/1585063292556.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585063300879.png" alt="" loading="lazy"></p>
+<p><img src="http://https://shittheend.github.io//post-images/1585063292556.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585063300879.png" alt="" loading="lazy"></p>
 <p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">两</mi><mi mathvariant="normal">种</mi><mi mathvariant="normal">原</mi><mi mathvariant="normal">子</mi><mi mathvariant="normal">个</mi><mi mathvariant="normal">数</mi><mi mathvariant="normal">比</mi><mo>=</mo><mfrac><mrow><mi mathvariant="normal">元</mi><mi mathvariant="normal">素</mi><mi mathvariant="normal">质</mi><mi mathvariant="normal">量</mi><mi mathvariant="normal">之</mi><mi mathvariant="normal">比</mi></mrow><mrow><mi mathvariant="normal">相</mi><mi mathvariant="normal">对</mi><mi mathvariant="normal">原</mi><mi mathvariant="normal">子</mi><mi mathvariant="normal">质</mi><mi mathvariant="normal">量</mi><mi mathvariant="normal">之</mi><mi mathvariant="normal">比</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">两种原子个数比=\frac{元素质量之比}{相对原子质量之比}
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">两</span><span class="mord cjk_fallback">种</span><span class="mord cjk_fallback">原</span><span class="mord cjk_fallback">子</span><span class="mord cjk_fallback">个</span><span class="mord cjk_fallback">数</span><span class="mord cjk_fallback">比</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.363em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.677em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord cjk_fallback">相</span><span class="mord cjk_fallback">对</span><span class="mord cjk_fallback">原</span><span class="mord cjk_fallback">子</span><span class="mord cjk_fallback">质</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">之</span><span class="mord cjk_fallback">比</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord cjk_fallback">元</span><span class="mord cjk_fallback">素</span><span class="mord cjk_fallback">质</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">之</span><span class="mord cjk_fallback">比</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
 <p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">两</mi><mi mathvariant="normal">种</mi><mi mathvariant="normal">分</mi><mi mathvariant="normal">子</mi><mi mathvariant="normal">个</mi><mi mathvariant="normal">数</mi><mi mathvariant="normal">比</mi><mo>=</mo><mfrac><mrow><mi mathvariant="normal">物</mi><mi mathvariant="normal">质</mi><mi mathvariant="normal">质</mi><mi mathvariant="normal">量</mi><mi mathvariant="normal">之</mi><mi mathvariant="normal">比</mi></mrow><mrow><mi mathvariant="normal">相</mi><mi mathvariant="normal">对</mi><mi mathvariant="normal">分</mi><mi mathvariant="normal">子</mi><mi mathvariant="normal">质</mi><mi mathvariant="normal">量</mi><mi mathvariant="normal">之</mi><mi mathvariant="normal">比</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">两种分子个数比=\frac{物质质量之比}{相对分子质量之比}
@@ -258,46 +258,46 @@
 <p>常用思想：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathsize="2.488em"><mtext mathvariant="bold">元素守恒！！</mtext></mstyle></mrow><annotation encoding="application/x-tex">{\Huge\textbf{元素守恒！！}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.70704168em;vertical-align:0em;"></span><span class="mord"><span class="mord text sizing reset-size6 size11"><span class="mord textbf cjk_fallback">元素守恒！！</span></span></span></span></span></span></p>
 <hr>
 <p>废液缸：<br>
-<img src="https://https://shittheend.github.io//post-images/1585063598337.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585063607990.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585063598337.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585063607990.png" alt="" loading="lazy"><br>
 反应逻辑线：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathsize="2.488em"><mtext mathvariant="bold">金属遇酸和盐溶液同时反应！！</mtext></mstyle></mrow><annotation encoding="application/x-tex">{\Huge\textbf{金属遇酸和盐溶液同时反应！！}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.70704168em;vertical-align:0em;"></span><span class="mord"><span class="mord text sizing reset-size6 size11"><span class="mord textbf cjk_fallback">金属遇酸和盐溶液同时反应！！</span></span></span></span></span></span></p>
 <hr>
-<p><img src="https://https://shittheend.github.io//post-images/1585063676796.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1585063714698.png" alt="" loading="lazy"></p>
+<p><img src="http://https://shittheend.github.io//post-images/1585063676796.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1585063714698.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[神奇的几何模型]]></title>
-        <id>https://https://shittheend.github.io/post/shen-qi-de-ji-he-mo-xing/</id>
-        <link href="https://https://shittheend.github.io/post/shen-qi-de-ji-he-mo-xing/">
+        <id>http://https://shittheend.github.io/post/shen-qi-de-ji-he-mo-xing/</id>
+        <link href="http://https://shittheend.github.io/post/shen-qi-de-ji-he-mo-xing/">
         </link>
         <updated>2020-03-24T09:36:38.000Z</updated>
         <content type="html"><![CDATA[<h3 id="1手拉手">1.手拉手</h3>
-<figure data-type="image" tabindex="1"><img src="https://https://shittheend.github.io//post-images/1585042945483.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://https://shittheend.github.io//post-images/1585042945483.jpg" alt="" loading="lazy"></figure>
 <p><strong>结论：</strong></p>
 <p>第三边相等</p>
 <p>两条第三边夹角为顶角</p>
 <h3 id="2相似三角形与四边形">2.相似三角形与四边形</h3>
-<figure data-type="image" tabindex="2"><img src="https://https://shittheend.github.io//post-images/1586598609518.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://https://shittheend.github.io//post-images/1586598609518.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[常见的化学物质]]></title>
-        <id>https://https://shittheend.github.io/post/chang-jian-de-hua-xue-wu-zhi/</id>
-        <link href="https://https://shittheend.github.io/post/chang-jian-de-hua-xue-wu-zhi/">
+        <id>http://https://shittheend.github.io/post/chang-jian-de-hua-xue-wu-zhi/</id>
+        <link href="http://https://shittheend.github.io/post/chang-jian-de-hua-xue-wu-zhi/">
         </link>
         <updated>2020-03-22T05:20:01.000Z</updated>
         <content type="html"><![CDATA[<h3 id="part-1-空气与氧气">Part 1. 空气与氧气</h3>
-<p><img src="https://https://shittheend.github.io//post-images/1584854744985.png" alt="" loading="lazy"><br>
+<p><img src="http://https://shittheend.github.io//post-images/1584854744985.png" alt="" loading="lazy"><br>
 <em>Attention</em>：<br>
 1.氧气<strong>不易</strong>溶于水<br>
 2.酸雨都是<strong>强酸</strong>(<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi><mi>H</mi><mo>&lt;</mo><mn>5.6</mn></mrow><annotation encoding="application/x-tex">pH&lt;5.6</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span><span class="mord">.</span><span class="mord">6</span></span></span></span>)<br>
 3.<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>H</mi><mi>C</mi><mi>l</mi></mrow><annotation encoding="application/x-tex">HCl</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span></span></span></span>和<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></mrow><annotation encoding="application/x-tex">NH_3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord mathdefault" style="margin-right:0.10903em;">N</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.08125em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><strong>极易</strong>溶于水，不能用排水法收集</p>
 <p>错题：<br>
-<img src="https://https://shittheend.github.io//post-images/1584854749942.png" alt="" loading="lazy"><br>
-<img src="https://https://shittheend.github.io//post-images/1584854754589.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1584854749942.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1584854754589.png" alt="" loading="lazy"></p>
 <h3 id="part-2-碳和碳的氧化物">Part 2. 碳和碳的氧化物</h3>
-<p><img src="https://https://shittheend.github.io//post-images/1584856063697.png" alt="" loading="lazy"><br>
+<p><img src="http://https://shittheend.github.io//post-images/1584856063697.png" alt="" loading="lazy"><br>
 <em>Attention</em>：<br>
 1.<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>C</mi><mn>60</mn></msub></mrow><annotation encoding="application/x-tex">C_{60}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">6</span><span class="mord mtight">0</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>由<strong>分子</strong>构成<br>
 2.碳单质的差别：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">碳</mi><mi mathvariant="normal">原</mi><mi mathvariant="normal">子</mi><mi mathvariant="normal">排</mi><mi mathvariant="normal">列</mi><mi mathvariant="normal">不</mi><mi mathvariant="normal">同</mi></mrow><annotation encoding="application/x-tex">碳原子排列不同</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mord cjk_fallback">碳</span><span class="mord cjk_fallback">原</span><span class="mord cjk_fallback">子</span><span class="mord cjk_fallback">排</span><span class="mord cjk_fallback">列</span><span class="mord cjk_fallback">不</span><span class="mord cjk_fallback">同</span></span></span></span><br>
@@ -311,18 +311,18 @@
 功：更适宜人类生存<br>
 过：冰川融化，海平面上升</p>
 <h3 id="part-3-水">Part 3. 水</h3>
-<p><img src="https://https://shittheend.github.io//post-images/1584883341405.png" alt="" loading="lazy"><br>
+<p><img src="http://https://shittheend.github.io//post-images/1584883341405.png" alt="" loading="lazy"><br>
 水净化五步：沉降、过滤、吸附、消毒、蒸馏<br>
 硬水变软水：蒸馏or煮沸<br>
 水电解：<strong>正氧负氢，氢二氧一</strong><br>
 错题：<br>
-<img src="https://https://shittheend.github.io//post-images/1584883608472.png" alt="" loading="lazy"></p>
+<img src="http://https://shittheend.github.io//post-images/1584883608472.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[鸡汤]]></title>
-        <id>https://https://shittheend.github.io/post/ji-tang/</id>
-        <link href="https://https://shittheend.github.io/post/ji-tang/">
+        <id>http://https://shittheend.github.io/post/ji-tang/</id>
+        <link href="http://https://shittheend.github.io/post/ji-tang/">
         </link>
         <updated>2020-03-19T06:43:41.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
