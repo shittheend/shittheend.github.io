@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://https://shittheend.github.io/</id>
     <title>moni妙妙屋</title>
-    <updated>2020-05-31T08:31:09.166Z</updated>
+    <updated>2020-06-04T12:12:10.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://https://shittheend.github.io/"/>
     <link rel="self" href="http://https://shittheend.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>http://https://shittheend.github.io/images/avatar.png</logo>
     <icon>http://https://shittheend.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, moni妙妙屋</rights>
+    <entry>
+        <title type="html"><![CDATA[上海自招讲解]]></title>
+        <id>http://https://shittheend.github.io/post/shang-hai-zi-zhao-jiang-jie/</id>
+        <link href="http://https://shittheend.github.io/post/shang-hai-zi-zhao-jiang-jie/">
+        </link>
+        <updated>2020-06-03T13:42:37.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="解题思路">解题思路：</h2>
+<ol>
+<li>对于高次方程、根式方程、分式方程，基本思路是<strong>换元</strong><br>
+<img src="http://https://shittheend.github.io//post-images/1591192111369.png" alt="" loading="lazy"><br>
+<img src="http://https://shittheend.github.io//post-images/1591192120496.png" alt="" loading="lazy"></li>
+<li>对于<strong>和</strong>与<strong>积</strong>的问题，可以考虑构造一元二次方程从而利用海伦公式，即：</li>
+</ol>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>n</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">x^2-mx+n=0
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9474379999999999em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">0</span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>⇒</mo><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mi>m</mi><mi mathvariant="normal">，</mi><msub><mi>x</mi><mn>1</mn></msub><mo>×</mo><msub><mi>x</mi><mn>2</mn></msub><mo>=</mo><mi>n</mi></mrow><annotation encoding="application/x-tex">\Rightarrow x_1+x_2=m，x_1×x_2=n
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">⇒</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.73333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.58056em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.73333em;vertical-align:-0.15em;"></span><span class="mord mathdefault">m</span><span class="mord cjk_fallback">，</span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.58056em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span></span></p>
+<p>然后结合求根公式可以搞出一些奇妙的东西。<br>
+<s>基本思路还是换元</s><br>
+<img src="http://https://shittheend.github.io//post-images/1591192083231.png" alt="" loading="lazy"><br>
+3.整除的性质：</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mi mathvariant="normal">∣</mi><mi>x</mi><mo>+</mo><mi>a</mi><mo>⇒</mo><mi>x</mi><mi mathvariant="normal">∣</mi><mi>a</mi></mrow><annotation encoding="application/x-tex">x|x+a \Rightarrow x|a
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">x</span><span class="mord">∣</span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">a</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">⇒</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">x</span><span class="mord">∣</span><span class="mord mathdefault">a</span></span></span></span></span></p>
+<p><img src="http://https://shittheend.github.io//post-images/1591193666243.png" alt="" loading="lazy"><br>
+4.<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>S</mi><mi mathvariant="normal">△</mi></msub><mo>=</mo><mi>p</mi><mi>r</mi></mrow><annotation encoding="application/x-tex">S_\triangle=pr</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.969438em;vertical-align:-0.286108em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.05764em;">S</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">△</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.286108em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span></span></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无量筒求密度]]></title>
         <id>http://https://shittheend.github.io/post/wu-liang-tong-qiu-mi-du/</id>
@@ -317,62 +344,6 @@
 水电解：<strong>正氧负氢，氢二氧一</strong><br>
 错题：<br>
 <img src="http://https://shittheend.github.io//post-images/1584883608472.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸡汤]]></title>
-        <id>http://https://shittheend.github.io/post/ji-tang/</id>
-        <link href="http://https://shittheend.github.io/post/ji-tang/">
-        </link>
-        <updated>2020-03-19T06:43:41.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>几度风雨几度春秋，<br>
-风霜雪雨搏激流；<br>
-历尽苦难痴心不改，<br>
-少年壮志不言愁。</p>
-</blockquote>
-<blockquote>
-<p>原来感到沉重是因为背负星辰.</p>
-</blockquote>
-<blockquote>
-<p>I could have endured darkness if I had never seen the sun.</p>
-</blockquote>
-<blockquote>
-<p>存于幻梦，醒于忧煎。</p>
-</blockquote>
-<blockquote>
-<p>“此后如竟没有炬火，我便是唯一的光。”</p>
-</blockquote>
-<blockquote>
-<p>Focus on interest!</p>
-</blockquote>
-<blockquote>
-<p>「梦总是会有醒来的时候，不会醒的梦总有一天会变成悲伤。」</p>
-</blockquote>
-<blockquote>
-<p>一直以为老去很遥远，才发觉年轻已经走了很久。</p>
-</blockquote>
-<blockquote>
-<p>已知花意，未见其花，<br>
-已见其花，未闻花名，<br>
-再见其花，落泪千溟，<br>
-未闻花名，但识花香，<br>
-已知花名，花已不在。<br>
-未闻花名，但识花香，<br>
-再遇花时，泪已千行。</p>
-</blockquote>
-<blockquote>
-<p>No matter how many difficulties and obstacles I meet along the way, I firmly believe I can succeed.</p>
-</blockquote>
-<blockquote>
-<p>前方的再艰辛，也比站在原地更接近幸福。</p>
-</blockquote>
-<blockquote>
-<p>愿，自己不再辜负自己，奇迹不再辜负奇迹。</p>
-</blockquote>
-<blockquote>
-<p>愿你归来仍是少年，愿你归来仍有星光。</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
