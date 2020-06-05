@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://https://shittheend.github.io/</id>
     <title>moni妙妙屋</title>
-    <updated>2020-06-04T12:12:10.436Z</updated>
+    <updated>2020-06-05T10:54:37.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://https://shittheend.github.io/"/>
     <link rel="self" href="http://https://shittheend.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>http://https://shittheend.github.io/images/avatar.png</logo>
     <icon>http://https://shittheend.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, moni妙妙屋</rights>
+    <entry>
+        <title type="html"><![CDATA[关于一中自招落榜]]></title>
+        <id>http://https://shittheend.github.io/post/guan-yu-yi-zhong-zi-zhao-luo-bang/</id>
+        <link href="http://https://shittheend.github.io/post/guan-yu-yi-zhong-zi-zhao-luo-bang/">
+        </link>
+        <updated>2020-06-04T15:05:16.000Z</updated>
+        <content type="html"><![CDATA[<p>我要让<br>
+一中<br>
+没有<br>
+把我签走<br>
+成为<br>
+一中<br>
+的遗憾<br>
+👏👏👏</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海自招讲解]]></title>
         <id>http://https://shittheend.github.io/post/shang-hai-zi-zhao-jiang-jie/</id>
@@ -306,44 +322,6 @@
 <p>两条第三边夹角为顶角</p>
 <h3 id="2相似三角形与四边形">2.相似三角形与四边形</h3>
 <figure data-type="image" tabindex="2"><img src="http://https://shittheend.github.io//post-images/1586598609518.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常见的化学物质]]></title>
-        <id>http://https://shittheend.github.io/post/chang-jian-de-hua-xue-wu-zhi/</id>
-        <link href="http://https://shittheend.github.io/post/chang-jian-de-hua-xue-wu-zhi/">
-        </link>
-        <updated>2020-03-22T05:20:01.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="part-1-空气与氧气">Part 1. 空气与氧气</h3>
-<p><img src="http://https://shittheend.github.io//post-images/1584854744985.png" alt="" loading="lazy"><br>
-<em>Attention</em>：<br>
-1.氧气<strong>不易</strong>溶于水<br>
-2.酸雨都是<strong>强酸</strong>(<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi><mi>H</mi><mo>&lt;</mo><mn>5.6</mn></mrow><annotation encoding="application/x-tex">pH&lt;5.6</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">&lt;</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span><span class="mord">.</span><span class="mord">6</span></span></span></span>)<br>
-3.<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>H</mi><mi>C</mi><mi>l</mi></mrow><annotation encoding="application/x-tex">HCl</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span></span></span></span>和<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>N</mi><msub><mi>H</mi><mn>3</mn></msub></mrow><annotation encoding="application/x-tex">NH_3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord mathdefault" style="margin-right:0.10903em;">N</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.08125em;">H</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.08125em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">3</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><strong>极易</strong>溶于水，不能用排水法收集</p>
-<p>错题：<br>
-<img src="http://https://shittheend.github.io//post-images/1584854749942.png" alt="" loading="lazy"><br>
-<img src="http://https://shittheend.github.io//post-images/1584854754589.png" alt="" loading="lazy"></p>
-<h3 id="part-2-碳和碳的氧化物">Part 2. 碳和碳的氧化物</h3>
-<p><img src="http://https://shittheend.github.io//post-images/1584856063697.png" alt="" loading="lazy"><br>
-<em>Attention</em>：<br>
-1.<span class="katex"><span class="katex-mathml"><math><semantics><mrow><msub><mi>C</mi><mn>60</mn></msub></mrow><annotation encoding="application/x-tex">C_{60}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">6</span><span class="mord mtight">0</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>由<strong>分子</strong>构成<br>
-2.碳单质的差别：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">碳</mi><mi mathvariant="normal">原</mi><mi mathvariant="normal">子</mi><mi mathvariant="normal">排</mi><mi mathvariant="normal">列</mi><mi mathvariant="normal">不</mi><mi mathvariant="normal">同</mi></mrow><annotation encoding="application/x-tex">碳原子排列不同</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mord cjk_fallback">碳</span><span class="mord cjk_fallback">原</span><span class="mord cjk_fallback">子</span><span class="mord cjk_fallback">排</span><span class="mord cjk_fallback">列</span><span class="mord cjk_fallback">不</span><span class="mord cjk_fallback">同</span></span></span></span><br>
-3.初中化学唯一有毒性的气体：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>O</mi></mrow><annotation encoding="application/x-tex">CO</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span></span></span></span><br>
-4.<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>O</mi></mrow><annotation encoding="application/x-tex">CO</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span></span></span></span>还原实验：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><mi>O</mi></mrow><annotation encoding="application/x-tex">CO</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span></span></span></span><strong>早出晚归</strong>，酒精（喷）灯<strong>迟到早退</strong>；<br>
-尾气处理：点燃or气球<br>
-5.<strong>检验</strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">CO_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>用澄清石灰水，<strong>验满</strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">CO_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>用燃着的小木条</p>
-<p>错题：<br>
-1.经过洗气的<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi><msub><mi>O</mi><mn>2</mn></msub></mrow><annotation encoding="application/x-tex">CO_2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.83333em;vertical-align:-0.15em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>不能使紫色石蕊试纸变红，则洗气瓶中的液体为：浓硫酸或<strong>NaOH</strong><br>
-2.温室效应的功与过：<br>
-功：更适宜人类生存<br>
-过：冰川融化，海平面上升</p>
-<h3 id="part-3-水">Part 3. 水</h3>
-<p><img src="http://https://shittheend.github.io//post-images/1584883341405.png" alt="" loading="lazy"><br>
-水净化五步：沉降、过滤、吸附、消毒、蒸馏<br>
-硬水变软水：蒸馏or煮沸<br>
-水电解：<strong>正氧负氢，氢二氧一</strong><br>
-错题：<br>
-<img src="http://https://shittheend.github.io//post-images/1584883608472.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
